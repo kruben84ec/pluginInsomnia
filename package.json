@@ -1,0 +1,25 @@
+{
+  "name": "plugin",
+  "version": "1.0.0",
+  "description": "Es plugin que  uso pra obtner le token de una API hecha en FastApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kruben84ec/pluginInsomnia.git"
+  },
+  "author": "Christian R. Miranda Z crmirandazambrano@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kruben84ec/pluginInsomnia/issues"
+  },
+  "homepage": "https://github.com/kruben84ec/pluginInsomnia#readme",
+  "dependencies": {
+    "karma": "^6.3.9",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-cli": "^2.0.0",
+    "karma-jasmine": "^4.0.1"
+  }
+}
